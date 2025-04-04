@@ -1,0 +1,44 @@
+{
+    "flores": [
+      {
+        "id": 1,
+        "nome": "Rosa Vermelha",
+        "cor": "Vermelha",
+        "tipo": "Perene",
+        "preco": 20.00,
+        "quantidade_estoque": 50,
+        "descricao": "Uma rosa vermelha clássica e perfumada.",
+        "disponibilidade": "Disponível"
+      },
+      {
+        "id": 2,
+        "nome": "Girassol",
+        "cor": "Amarela",
+        "tipo": "Anual",
+        "preco": 15.00,
+        "quantidade_estoque": 30,
+        "descricao": "Girassol amarelo vibrante, perfeito para iluminar qualquer ambiente.",
+        "disponibilidade": "Disponível"
+      },
+      {
+        "id": 3,
+        "nome": "Orquídea",
+        "cor": "Amarelo",
+        "tipo": "Anual",
+        "preco": 10.00,
+        "quantidade_estoque": 100,
+        "descricao": "Orquídea exótica e elegante, trazendo um toque sofisticado.",
+        "disponibilidade": "Disponível"
+      },
+      {
+        "id": 4,
+        "nome": "Tulipa",
+        "cor": "Roxa",
+        "tipo": "Perene",
+        "preco": 50.00,
+        "quantidade_estoque": 20,
+        "descricao": "Tulipas coloridas que vão deixar qualquer ambiente mais alegre.",
+        "disponibilidade": "Disponível"
+      }
+    ]
+  }

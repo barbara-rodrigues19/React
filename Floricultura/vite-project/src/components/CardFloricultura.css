@@ -1,0 +1,51 @@
+.card {
+    border: 1px solid #ddd;               /* Borda suave ao redor do card */
+    border-radius: 8px;                    /* Bordas arredondadas */
+    max-width: 250px;                      /* Largura máxima do card */
+    margin: 16px;                          /* Espaçamento entre os cards */
+    overflow: hidden;                      /* Esconde qualquer conteúdo que ultrapasse a borda do card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra leve para dar profundidade */
+    transition: transform 0.3s ease;       /* Efeito de transição quando o card é alterado */
+  }
+  
+  /* Efeito de zoom quando o mouse passa por cima do card */
+  .card:hover {
+    transform: scale(1.05);                /* Aumenta o tamanho do card ligeiramente */
+  }
+  
+  /* Estilo da imagem da flor */
+  .card__imagem {
+    width: 100%;                           /* A imagem ocupa toda a largura do card */
+    height: 150px;                         /* Altura fixa para a imagem */
+    object-fit: cover;                     /* Ajusta a imagem sem distorcer */
+    border-bottom: 1px solid #ddd;         /* Linha entre a imagem e o conteúdo */
+  }
+  
+  /* Estilo do conteúdo dentro do card */
+  .card__conteudo {
+    padding: 16px;                         /* Espaçamento interno dentro do card */
+    text-align: center;                    /* Centraliza o conteúdo dentro do card */
+  }
+  
+  /* Estilo do nome da flor */
+  .card__nome {
+    font-size: 18px;                       /* Tamanho do nome da flor */
+    font-weight: bold;                     /* Nome em negrito */
+    margin-bottom: 8px;                    /* Espaçamento abaixo do nome */
+    color: #333;                           /* Cor do nome */
+  }
+  
+  /* Estilo da descrição da flor */
+  .card__descricao {
+    font-size: 14px;                       /* Tamanho da fonte da descrição */
+    color: #555;                           /* Cor cinza para o texto */
+    margin-bottom: 8px;                    /* Espaçamento abaixo da descrição */
+  }
+  
+  /* Estilo do preço da flor */
+  .card__preco {
+    font-size: 16px;                       /* Tamanho da fonte do preço */
+    font-weight: bold;                     /* Deixa o preço em negrito */
+    color: #e63946;                        /* Cor vermelha para destacar o preço */
+  }
+  
