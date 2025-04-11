@@ -1,0 +1,35 @@
+{
+    "food": [
+      {
+        "id": "1",
+        "nome": "Spaghetti de Algas Bioiluminadas",
+        "ingredientes": ["espaguete de algas", "proteína vegetal cultivada em laboratório", "molho de tomate quântico", "pó de trufas sintéticas", "microcebola caramelizada"],
+        "preço": 64.90
+      },
+      {
+        "id": "2",
+        "nome": "Risoto de Plasma de Cogumelos Lunares",
+        "ingredientes": ["arroz de amido zero", "cogumelos lunares liofilizados", "espuma de parmesão vegano", "caldo de vegetais ionizado", "erva cryo-crisp"],
+        "preço": 79.00
+      },
+      {
+        "id": "3",
+        "nome": "Tártaro de Frango Sintético com Gel de Limão Holográfico",
+        "ingredientes": ["frango de célula-tronco", "gel de limão pixelado", "pimenta cristal", "azeite de oliva em nanodrops"],
+        "preço": 58.75
+      },
+      {
+        "id": "4",
+        "nome": "Salada Intergaláctica Caesar",
+        "ingredientes": ["folhas de rúcula marciana", "croutons antigravitacionais", "parmesão em pó de nitrogênio", "molho Caesar aerado", "cubos de frango impressos em 3D"],
+        "preço": 51.90
+      },
+      {
+        "id": "5",
+        "nome": "Lasanha de Berinjela Quântica",
+        "ingredientes": ["berinjela translúcida", "queijo vegetal em camadas moleculares", "molho de tomate espiral", "manjericão cultivado em colônia orbital"],
+        "preço": 69.90
+      }
+    ]
+  }
+  
